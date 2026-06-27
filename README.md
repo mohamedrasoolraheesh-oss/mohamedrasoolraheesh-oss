@@ -360,11 +360,7 @@ Delivered two complete ML project deliverables — Diabetes Prediction and Car P
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedrasoolraheesh-oss/mohamedrasoolraheesh-oss/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedrasoolraheesh-oss/mohamedrasoolraheesh-oss/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mohamedrasoolraheesh-oss/mohamedrasoolraheesh-oss/output/github-snake.svg" />
-</picture>
+![snake](https://raw.githubusercontent.com/mohamedrasoolraheesh-oss/mohamedrasoolraheesh-oss/output/github-snake-dark.svg)
 
 </div>
 
@@ -424,4 +420,3 @@ open_to:
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=130&section=footer&fontColor=00D4FF)
 
 </div>
-
