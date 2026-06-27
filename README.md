@@ -340,7 +340,11 @@ Delivered two complete ML project deliverables — Diabetes Prediction and Car P
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedrasoolraheesh-oss&theme=nord&column=6&margin-w=10&margin-h=10&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedrasoolraheesh-oss&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=4&title=Stars,Followers,Commits,Repositories" alt="trophies row 1" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedrasoolraheesh-oss&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=4&title=PullRequest,Issues,Reviews,Experience" alt="trophies row 2" />
 
 </div>
 
@@ -359,9 +363,7 @@ Delivered two complete ML project deliverables — Diabetes Prediction and Car P
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-![snake](https://raw.githubusercontent.com/mohamedrasoolraheesh-oss/mohamedrasoolraheesh-oss/output/github-snake-dark.svg)
-
+<img width="100%" src="https://raw.githubusercontent.com/mohamedrasoolraheesh-oss/mohamedrasoolraheesh-oss/output/github-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
