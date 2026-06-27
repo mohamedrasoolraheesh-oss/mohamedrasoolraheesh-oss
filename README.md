@@ -318,6 +318,13 @@ Delivered two complete ML project deliverables — Diabetes Prediction and Car P
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedrasoolraheesh-oss&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=false&border_color=00D4FF&title_color=00D4FF&icon_color=F59E0B&text_color=ffffff&bg_color=0d1117&border_radius=10&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrasoolraheesh-oss&layout=compact&langs_count=8&theme=midnight-purple&border_color=00D4FF&title_color=00D4FF&text_color=ffffff&bg_color=0d1117&border_radius=10&cache_seconds=1800"/>
+
+</div>
 
 <br/>
 
@@ -333,7 +340,7 @@ Delivered two complete ML project deliverables — Diabetes Prediction and Car P
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedrasoolraheesh-oss&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedrasoolraheesh-oss&theme=nord&column=6&margin-w=10&margin-h=10&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -354,9 +361,9 @@ Delivered two complete ML project deliverables — Diabetes Prediction and Car P
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedrasoolraheesh-oss/Mohamed-Rasool/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedrasoolraheesh-oss/Mohamed-Rasool/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mohamedrasoolraheesh-oss/Mohamed-Rasool/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedrasoolraheesh-oss/mohamedrasoolraheesh-oss/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedrasoolraheesh-oss/mohamedrasoolraheesh-oss/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mohamedrasoolraheesh-oss/mohamedrasoolraheesh-oss/output/github-snake.svg" />
 </picture>
 
 </div>
