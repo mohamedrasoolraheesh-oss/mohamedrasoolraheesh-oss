@@ -340,11 +340,12 @@ Delivered two complete ML project deliverables — Diabetes Prediction and Car P
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohamedrasoolraheesh-oss&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=4&title=Stars,Followers,Commits,Repositories" alt="trophies row 1" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohamedrasoolraheesh-oss&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=4&title=PullRequest,Issues,Reviews,Experience" alt="trophies row 2" />
+[![Commits](https://img.shields.io/badge/Total%20Commits-106-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedrasoolraheesh-oss)
+[![Stars](https://img.shields.io/badge/Total%20Stars-2-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedrasoolraheesh-oss)
+[![Repos](https://img.shields.io/github/repos/mohamedrasoolraheesh-oss?style=for-the-badge&color=00BFA6&logo=github&logoColor=white&label=Repositories)](https://github.com/mohamedrasoolraheesh-oss?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/mohamedrasoolraheesh-oss?style=for-the-badge&color=8B5CF6&logo=github&logoColor=white&label=Followers)](https://github.com/mohamedrasoolraheesh-oss)
+[![Streak](https://img.shields.io/badge/Longest%20Streak-5%20days-EC4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedrasoolraheesh-oss)
+[![Since](https://img.shields.io/badge/Coding%20Since-Feb%202026-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedrasoolraheesh-oss)
 
 </div>
 
