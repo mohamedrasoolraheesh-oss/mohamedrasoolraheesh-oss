@@ -340,12 +340,14 @@ Delivered two complete ML project deliverables — Diabetes Prediction and Car P
 
 <div align="center">
 
-[![Commits](https://img.shields.io/badge/Total%20Commits-106-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedrasoolraheesh-oss)
-[![Stars](https://img.shields.io/badge/Total%20Stars-2-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedrasoolraheesh-oss)
-[![Repos](https://img.shields.io/github/repos/mohamedrasoolraheesh-oss?style=for-the-badge&color=00BFA6&logo=github&logoColor=white&label=Repositories)](https://github.com/mohamedrasoolraheesh-oss?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/mohamedrasoolraheesh-oss?style=for-the-badge&color=8B5CF6&logo=github&logoColor=white&label=Followers)](https://github.com/mohamedrasoolraheesh-oss)
-[![Streak](https://img.shields.io/badge/Longest%20Streak-5%20days-EC4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedrasoolraheesh-oss)
-[![Since](https://img.shields.io/badge/Coding%20Since-Feb%202026-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedrasoolraheesh-oss)
+| 🏆 Trophy | 🎯 Achievement | 📊 Stats |
+|:---------:|:-------------:|:--------:|
+| ![Commits](https://img.shields.io/badge/💻_COMMITS-106-00D4FF?style=for-the-badge&labelColor=0d1117) | **Total Commits** | Since Feb 2026 |
+| ![Stars](https://img.shields.io/badge/⭐_STARS-2-F59E0B?style=for-the-badge&labelColor=0d1117) | **Stars Earned** | Across all repos |
+| ![Followers](https://img.shields.io/badge/👥_FOLLOWERS-1-8B5CF6?style=for-the-badge&labelColor=0d1117) | **Followers** | Growing network |
+| ![Streak](https://img.shields.io/badge/🔥_STREAK-5_DAYS-EC4899?style=for-the-badge&labelColor=0d1117) | **Longest Streak** | Jun 16 – Jun 20 |
+| ![Contributions](https://img.shields.io/badge/📈_CONTRIBUTIONS-106-00BFA6?style=for-the-badge&labelColor=0d1117) | **Total Contributions** | Feb 4 – Present |
+| ![Experience](https://img.shields.io/badge/🎯_EXPERIENCE-RISING_STAR-6A0DAD?style=for-the-badge&labelColor=0d1117) | **Developer Level** | AI/ML Engineer |
 
 </div>
 
