@@ -340,20 +340,87 @@ Delivered two complete ML project deliverables — Diabetes Prediction and Car P
 
 <div align="center">
 
-<svg width="100%" viewBox="0 0 680 420" role="img" xmlns="http://www.w3.org/2000/svg">
-<rect width="680" height="420" fill="#0d1117" rx="12"/>
-<text x="340" y="38" text-anchor="middle" font-family="monospace" font-size="15" font-weight="700" fill="#00D4FF" letter-spacing="3">GITHUB TROPHIES</text>
-<line x1="60" y1="52" x2="620" y2="52" stroke="#00D4FF" stroke-width="0.5" opacity="0.4"/>
-<g transform="translate(40, 70)"><rect width="140" height="130" rx="8" fill="#0d2137" stroke="#00D4FF" stroke-width="1"/><text x="70" y="30" text-anchor="middle" font-size="26">🏆</text><text x="70" y="55" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#00D4FF">COMMITS</text><text x="70" y="78" text-anchor="middle" font-family="monospace" font-size="26" font-weight="900" fill="#ffffff">106</text><text x="70" y="98" text-anchor="middle" font-family="monospace" font-size="9" fill="#8b949e">Total pushes</text><rect x="20" y="108" width="100" height="4" rx="2" fill="#00D4FF"/><text x="70" y="125" text-anchor="middle" font-family="monospace" font-size="9" fill="#00D4FF">GOLD ★★★</text></g>
-<g transform="translate(200, 70)"><rect width="140" height="130" rx="8" fill="#1a1a0d" stroke="#F59E0B" stroke-width="1"/><text x="70" y="30" text-anchor="middle" font-size="26">⭐</text><text x="70" y="55" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#F59E0B">STARS</text><text x="70" y="78" text-anchor="middle" font-family="monospace" font-size="26" font-weight="900" fill="#ffffff">2</text><text x="70" y="98" text-anchor="middle" font-family="monospace" font-size="9" fill="#8b949e">Repos starred</text><rect x="20" y="108" width="20" height="4" rx="2" fill="#F59E0B"/><text x="70" y="125" text-anchor="middle" font-family="monospace" font-size="9" fill="#F59E0B">BRONZE ★</text></g>
-<g transform="translate(360, 70)"><rect width="140" height="130" rx="8" fill="#1a0d1a" stroke="#EC4899" stroke-width="1"/><text x="70" y="30" text-anchor="middle" font-size="26">🔥</text><text x="70" y="55" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#EC4899">STREAK</text><text x="70" y="78" text-anchor="middle" font-family="monospace" font-size="26" font-weight="900" fill="#ffffff">5</text><text x="70" y="98" text-anchor="middle" font-family="monospace" font-size="9" fill="#8b949e">Longest streak</text><rect x="20" y="108" width="45" height="4" rx="2" fill="#EC4899"/><text x="70" y="125" text-anchor="middle" font-family="monospace" font-size="9" fill="#EC4899">SILVER ★★</text></g>
-<g transform="translate(500, 70)"><rect width="140" height="130" rx="8" fill="#100d1a" stroke="#8B5CF6" stroke-width="1"/><text x="70" y="30" text-anchor="middle" font-size="26">🎯</text><text x="70" y="55" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#8B5CF6">LEVEL</text><text x="70" y="74" text-anchor="middle" font-family="monospace" font-size="13" font-weight="900" fill="#ffffff">RISING</text><text x="70" y="90" text-anchor="middle" font-family="monospace" font-size="13" font-weight="900" fill="#ffffff">STAR</text><text x="70" y="107" text-anchor="middle" font-family="monospace" font-size="9" fill="#8b949e">AI/ML Engineer</text><rect x="20" y="115" width="70" height="4" rx="2" fill="#8B5CF6"/><text x="70" y="129" text-anchor="middle" font-family="monospace" font-size="9" fill="#8B5CF6">SILVER ★★</text></g>
-<g transform="translate(120, 220)"><rect width="140" height="130" rx="8" fill="#0d1a14" stroke="#00BFA6" stroke-width="1"/><text x="70" y="30" text-anchor="middle" font-size="26">📈</text><text x="70" y="52" text-anchor="middle" font-family="monospace" font-size="9" font-weight="700" fill="#00BFA6">CONTRIBUTIONS</text><text x="70" y="75" text-anchor="middle" font-family="monospace" font-size="26" font-weight="900" fill="#ffffff">106</text><text x="70" y="95" text-anchor="middle" font-family="monospace" font-size="9" fill="#8b949e">Feb 2026 – Now</text><rect x="20" y="105" width="95" height="4" rx="2" fill="#00BFA6"/><text x="70" y="122" text-anchor="middle" font-family="monospace" font-size="9" fill="#00BFA6">GOLD ★★★</text></g>
-<g transform="translate(280, 220)"><rect width="140" height="130" rx="8" fill="#0d1117" stroke="#58A6FF" stroke-width="1"/><text x="70" y="30" text-anchor="middle" font-size="26">📁</text><text x="70" y="55" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#58A6FF">PROJECTS</text><text x="70" y="78" text-anchor="middle" font-family="monospace" font-size="26" font-weight="900" fill="#ffffff">6+</text><text x="70" y="98" text-anchor="middle" font-family="monospace" font-size="9" fill="#8b949e">ML projects built</text><rect x="20" y="108" width="65" height="4" rx="2" fill="#58A6FF"/><text x="70" y="125" text-anchor="middle" font-family="monospace" font-size="9" fill="#58A6FF">SILVER ★★</text></g>
-<g transform="translate(440, 220)"><rect width="140" height="130" rx="8" fill="#1a0d0d" stroke="#FF6B6B" stroke-width="1"/><text x="70" y="30" text-anchor="middle" font-size="26">💼</text><text x="70" y="55" text-anchor="middle" font-family="monospace" font-size="11" font-weight="700" fill="#FF6B6B">INTERNSHIPS</text><text x="70" y="78" text-anchor="middle" font-family="monospace" font-size="26" font-weight="900" fill="#ffffff">2</text><text x="70" y="98" text-anchor="middle" font-family="monospace" font-size="9" fill="#8b949e">ML internships done</text><rect x="20" y="108" width="100" height="4" rx="2" fill="#FF6B6B"/><text x="70" y="125" text-anchor="middle" font-family="monospace" font-size="9" fill="#FF6B6B">GOLD ★★★</text></g>
-<line x1="60" y1="370" x2="620" y2="370" stroke="#00D4FF" stroke-width="0.5" opacity="0.3"/>
-<text x="340" y="392" text-anchor="middle" font-family="monospace" font-size="10" fill="#8b949e">mohamedrasoolraheesh-oss · AI/ML Engineer · Chennai, India</text>
-<text x="340" y="410" text-anchor="middle" font-family="monospace" font-size="10" fill="#00D4FF" opacity="0.7">github.com/mohamedrasoolraheesh-oss</text>
+<svg width="100%" viewBox="0 0 680 470" role="img" xmlns="http://www.w3.org/2000/svg">
+<rect width="680" height="470" fill="#0d1117" rx="12"/>
+<rect x="1" y="1" width="678" height="468" fill="none" stroke="#00D4FF" stroke-width="0.5" rx="12" opacity="0.3"/>
+<text x="340" y="34" text-anchor="middle" font-family="monospace" font-size="13" font-weight="700" fill="#00D4FF" letter-spacing="4">GITHUB TROPHIES</text>
+<line x1="40" y1="46" x2="640" y2="46" stroke="#00D4FF" stroke-width="0.5" opacity="0.3"/>
+<!-- ROW 1: 4 cards, w=148, gap=12, startX=26 -->
+<rect x="26" y="58" width="148" height="155" rx="8" fill="#071520" stroke="#00D4FF" stroke-width="1"/>
+<rect x="26" y="58" width="148" height="4" rx="4" fill="#00D4FF"/>
+<text x="100" y="90" text-anchor="middle" font-family="monospace" font-size="20" fill="#FFD700">🏆</text>
+<text x="100" y="110" text-anchor="middle" font-family="monospace" font-size="10" font-weight="700" fill="#00D4FF" letter-spacing="2">COMMITS</text>
+<text x="100" y="136" text-anchor="middle" font-family="monospace" font-size="26" font-weight="900" fill="#ffffff">106</text>
+<text x="100" y="153" text-anchor="middle" font-family="monospace" font-size="9" fill="#6e7681">total pushes</text>
+<rect x="46" y="163" width="108" height="3" rx="1" fill="#0d2137"/>
+<rect x="46" y="163" width="108" height="3" rx="1" fill="#00D4FF"/>
+<text x="100" y="200" text-anchor="middle" font-family="monospace" font-size="9" fill="#00D4FF">GOLD ★★★</text>
+
+<rect x="186" y="58" width="148" height="155" rx="8" fill="#151200" stroke="#F59E0B" stroke-width="1"/>
+<rect x="186" y="58" width="148" height="4" rx="4" fill="#F59E0B"/>
+<text x="260" y="90" text-anchor="middle" font-family="monospace" font-size="20" fill="#F59E0B">⭐</text>
+<text x="260" y="110" text-anchor="middle" font-family="monospace" font-size="10" font-weight="700" fill="#F59E0B" letter-spacing="2">STARS</text>
+<text x="260" y="136" text-anchor="middle" font-family="monospace" font-size="26" font-weight="900" fill="#ffffff">2</text>
+<text x="260" y="153" text-anchor="middle" font-family="monospace" font-size="9" fill="#6e7681">repos starred</text>
+<rect x="206" y="163" width="108" height="3" rx="1" fill="#1a1500"/>
+<rect x="206" y="163" width="22" height="3" rx="1" fill="#F59E0B"/>
+<text x="260" y="200" text-anchor="middle" font-family="monospace" font-size="9" fill="#F59E0B">BRONZE ★</text>
+
+<rect x="346" y="58" width="148" height="155" rx="8" fill="#150010" stroke="#EC4899" stroke-width="1"/>
+<rect x="346" y="58" width="148" height="4" rx="4" fill="#EC4899"/>
+<text x="420" y="90" text-anchor="middle" font-family="monospace" font-size="20" fill="#EC4899">🔥</text>
+<text x="420" y="110" text-anchor="middle" font-family="monospace" font-size="10" font-weight="700" fill="#EC4899" letter-spacing="2">STREAK</text>
+<text x="420" y="136" text-anchor="middle" font-family="monospace" font-size="26" font-weight="900" fill="#ffffff">5</text>
+<text x="420" y="153" text-anchor="middle" font-family="monospace" font-size="9" fill="#6e7681">longest streak</text>
+<rect x="366" y="163" width="108" height="3" rx="1" fill="#1a0015"/>
+<rect x="366" y="163" width="50" height="3" rx="1" fill="#EC4899"/>
+<text x="420" y="200" text-anchor="middle" font-family="monospace" font-size="9" fill="#EC4899">SILVER ★★</text>
+
+<rect x="506" y="58" width="148" height="155" rx="8" fill="#0e0a1a" stroke="#8B5CF6" stroke-width="1"/>
+<rect x="506" y="58" width="148" height="4" rx="4" fill="#8B5CF6"/>
+<text x="580" y="90" text-anchor="middle" font-family="monospace" font-size="20" fill="#8B5CF6">🎯</text>
+<text x="580" y="110" text-anchor="middle" font-family="monospace" font-size="10" font-weight="700" fill="#8B5CF6" letter-spacing="2">LEVEL</text>
+<text x="580" y="132" text-anchor="middle" font-family="monospace" font-size="13" font-weight="900" fill="#ffffff">RISING</text>
+<text x="580" y="149" text-anchor="middle" font-family="monospace" font-size="13" font-weight="900" fill="#ffffff">STAR</text>
+<text x="580" y="164" text-anchor="middle" font-family="monospace" font-size="9" fill="#6e7681">AI/ML Engineer</text>
+<rect x="526" y="172" width="108" height="3" rx="1" fill="#12082a"/>
+<rect x="526" y="172" width="75" height="3" rx="1" fill="#8B5CF6"/>
+<text x="580" y="200" text-anchor="middle" font-family="monospace" font-size="9" fill="#8B5CF6">SILVER ★★</text>
+
+<!-- ROW 2: 3 cards, w=180, gap=20, startX=50 -->
+<rect x="50" y="230" width="180" height="155" rx="8" fill="#071510" stroke="#00BFA6" stroke-width="1"/>
+<rect x="50" y="230" width="180" height="4" rx="4" fill="#00BFA6"/>
+<text x="140" y="262" text-anchor="middle" font-family="monospace" font-size="20" fill="#00BFA6">📈</text>
+<text x="140" y="281" text-anchor="middle" font-family="monospace" font-size="9" font-weight="700" fill="#00BFA6" letter-spacing="2">CONTRIBUTIONS</text>
+<text x="140" y="308" text-anchor="middle" font-family="monospace" font-size="26" font-weight="900" fill="#ffffff">106</text>
+<text x="140" y="325" text-anchor="middle" font-family="monospace" font-size="9" fill="#6e7681">Feb 2026 – present</text>
+<rect x="70" y="335" width="140" height="3" rx="1" fill="#001a12"/>
+<rect x="70" y="335" width="133" height="3" rx="1" fill="#00BFA6"/>
+<text x="140" y="370" text-anchor="middle" font-family="monospace" font-size="9" fill="#00BFA6">GOLD ★★★</text>
+
+<rect x="250" y="230" width="180" height="155" rx="8" fill="#071018" stroke="#58A6FF" stroke-width="1"/>
+<rect x="250" y="230" width="180" height="4" rx="4" fill="#58A6FF"/>
+<text x="340" y="262" text-anchor="middle" font-family="monospace" font-size="20" fill="#58A6FF">📁</text>
+<text x="340" y="281" text-anchor="middle" font-family="monospace" font-size="10" font-weight="700" fill="#58A6FF" letter-spacing="2">PROJECTS</text>
+<text x="340" y="308" text-anchor="middle" font-family="monospace" font-size="26" font-weight="900" fill="#ffffff">6+</text>
+<text x="340" y="325" text-anchor="middle" font-family="monospace" font-size="9" fill="#6e7681">ML projects built</text>
+<rect x="270" y="335" width="140" height="3" rx="1" fill="#071018"/>
+<rect x="270" y="335" width="90" height="3" rx="1" fill="#58A6FF"/>
+<text x="340" y="370" text-anchor="middle" font-family="monospace" font-size="9" fill="#58A6FF">SILVER ★★</text>
+
+<rect x="450" y="230" width="180" height="155" rx="8" fill="#150707" stroke="#FF6B6B" stroke-width="1"/>
+<rect x="450" y="230" width="180" height="4" rx="4" fill="#FF6B6B"/>
+<text x="540" y="262" text-anchor="middle" font-family="monospace" font-size="20" fill="#FF6B6B">💼</text>
+<text x="540" y="281" text-anchor="middle" font-family="monospace" font-size="10" font-weight="700" fill="#FF6B6B" letter-spacing="2">INTERNSHIPS</text>
+<text x="540" y="308" text-anchor="middle" font-family="monospace" font-size="26" font-weight="900" fill="#ffffff">2</text>
+<text x="540" y="325" text-anchor="middle" font-family="monospace" font-size="9" fill="#6e7681">ML internships</text>
+<rect x="470" y="335" width="140" height="3" rx="1" fill="#1a0707"/>
+<rect x="470" y="335" width="140" height="3" rx="1" fill="#FF6B6B"/>
+<text x="540" y="370" text-anchor="middle" font-family="monospace" font-size="9" fill="#FF6B6B">GOLD ★★★</text>
+
+<line x1="40" y1="405" x2="640" y2="405" stroke="#00D4FF" stroke-width="0.5" opacity="0.2"/>
+<text x="340" y="425" text-anchor="middle" font-family="monospace" font-size="9" fill="#6e7681">mohamedrasoolraheesh-oss · AI/ML Engineer · Chennai, India</text>
+<text x="340" y="445" text-anchor="middle" font-family="monospace" font-size="9" fill="#00D4FF" opacity="0.6">github.com/mohamedrasoolraheesh-oss</text>
 </svg>
 
 </div>
