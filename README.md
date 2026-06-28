@@ -320,7 +320,7 @@ Delivered two complete ML project deliverables — Diabetes Prediction and Car P
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedrasoolraheesh-oss&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=false&border_color=00D4FF&title_color=00D4FF&icon_color=F59E0B&text_color=ffffff&bg_color=0d1117&border_radius=10&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedrasoolraheesh-oss&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=false&border_color=00D4FF&title_color=00D4FF&icon_color=F59E0B&text_color=ffffff&bg_color=0d1117&border_radius=10"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrasoolraheesh-oss&layout=compact&langs_count=8&theme=midnight-purple&border_color=00D4FF&title_color=00D4FF&text_color=ffffff&bg_color=0d1117&border_radius=10&cache_seconds=1800"/>
 
