@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-00D4FF?style=for-the-badge)](https://github.com/mohamedrasoolraheesh-oss)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-00D4FF?style=for-the-badge)](https://mohamedrasool.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebel07/)
 [![Email](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedrasoolraheesh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-00BFA6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedrasoolraheesh-oss)
@@ -398,7 +398,7 @@ open_to:
 [![Gmail](https://img.shields.io/badge/Gmail-mohamedrasoolraheesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedrasoolraheesh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rebel07-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebel07/)
 [![GitHub](https://img.shields.io/badge/GitHub-mohamedrasoolraheesh--oss-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedrasoolraheesh-oss)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/mohamedrasoolraheesh-oss)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://mohamedrasool.vercel.app/)
 
 <br/>
 
