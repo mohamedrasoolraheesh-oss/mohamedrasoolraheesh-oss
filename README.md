@@ -340,7 +340,7 @@ Delivered two complete ML project deliverables — Diabetes Prediction and Car P
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mohamedrasoolraheesh-oss/mohamedrasoolraheesh-oss/main/trophies.svg" alt="GitHub Trophies" width="100%"/>
+<img src="https://raw.githubusercontent.com/mohamedrasoolraheesh-oss/mohamedrasoolraheesh-oss/main/.github/trophies.svg" alt="GitHub Trophies" width="100%"/>
 
 </div>
 ---
