@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=220&section=header&text=Mohamed%20Rasool%20Raheesh&fontSize=44&fontColor=00D4FF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20CSE%20Student%20%7C%20Open%20to%20Internships&descAlignY=58&descSize=18&descColor=ffffff)
 
-<br/>
+<br/> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+from+Scratch+%F0%9F%A7%A0;End-to-End+ML+Pipeline+Engineer+%F0%9F%94%A7;NLP+%7C+RAG+%7C+Classification+%7C+Regression+%F0%9F%93%8A;Turning+Raw+Data+into+Real+Decisions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
