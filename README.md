@@ -4,7 +4,7 @@
 
 <br/> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com? font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+from+Scratch+%F0%9F%A7%A0;End-to-End+ML+Pipeline+Engineer+%F0%9F%94%A7;NLP+%7C+RAG+%7C+Classification+%7C+Regression+%F0%9F%93%8A;Turning+Raw+Data+into+Real+Decisions+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+from+Scratch+%F0%9F%A7%A0;End-to-End+ML+Pipeline+Engineer+%F0%9F%94%A7;NLP+%7C+RAG+%7C+Classification+%7C+Regression+%F0%9F%93%8A;Turning+Raw+Data+into+Real+Decisions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
